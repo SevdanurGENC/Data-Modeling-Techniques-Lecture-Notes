@@ -6,7 +6,7 @@ In this repo, I have the course contents of Data Modelling Techniques training, 
 
 Bu repoda, 25 - 26 Ocak 2022 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlığı işbirliğiyle tarafımca Innova Teknoloji şirketine verilecek olan Veri Modelleme Teknikleri eğitimine ait ders içeriklerim bulunmaktadır.
 
-## 1. GĞN
+## 1. GÜN
 
 
 
