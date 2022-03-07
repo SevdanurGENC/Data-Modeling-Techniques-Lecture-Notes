@@ -8,6 +8,20 @@ Bu repoda, 25 - 26 Ocak 2022 tarihleri arasında Academy Peak Bilgi Teknolojiler
 
 ## 1. GÜN
 
+- Veri Modelleme Temelleri
+- Veri Modelleri
+- Verinin Kalitesi ve Bütünlüğü
+- Veri Görselleştirme
+- Veri Tabanı ve Veri Ambarı Kavramları
+- İş Analizi ve İş Zekası Kavramları 
+- Veri Madenciliği 
 
 
 ## 2. GÜN
+
+- Veri Ambarı Kavramları
+- OLTP
+- OLAP
+- Data Mart
+- ETL 
+- ELT
